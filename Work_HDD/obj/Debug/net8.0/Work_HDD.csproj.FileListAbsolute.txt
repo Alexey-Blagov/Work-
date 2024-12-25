@@ -1,0 +1,14 @@
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\bin\Debug\net8.0\Work_HDD.exe
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\bin\Debug\net8.0\Work_HDD.deps.json
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\bin\Debug\net8.0\Work_HDD.runtimeconfig.json
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\bin\Debug\net8.0\Work_HDD.dll
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\bin\Debug\net8.0\Work_HDD.pdb
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\obj\Debug\net8.0\Work_HDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\obj\Debug\net8.0\Work_HDD.AssemblyInfoInputs.cache
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\obj\Debug\net8.0\Work_HDD.AssemblyInfo.cs
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\obj\Debug\net8.0\Work_HDD.csproj.CoreCompileInputs.cache
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\obj\Debug\net8.0\Work_HDD.dll
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\obj\Debug\net8.0\refint\Work_HDD.dll
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\obj\Debug\net8.0\Work_HDD.pdb
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\obj\Debug\net8.0\Work_HDD.genruntimeconfig.cache
+C:\Users\Alexey.Blagov\source\repos\Work_HDD\Work_HDD\obj\Debug\net8.0\ref\Work_HDD.dll
